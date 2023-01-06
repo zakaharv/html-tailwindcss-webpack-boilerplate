@@ -15,10 +15,7 @@ module.exports = {
     colors: {
       transparent: "transparent",
       current: "currentColor",
-      cblue: '#3252DF',
-      cdblue: '#152C5B',
-      cgray: '#B0B0B0',
-      cpink: '#FF498B',
+
     },
     spacing: {
       px: "1px",
