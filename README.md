@@ -48,27 +48,27 @@ This will install the following packages:
 
 ## Usage
 
-1. Start the development server:
+Start the development server:
 
 ```bash
   npm start
 ```
 It will run the development server with hot reloading and other features, you can access the application in your browser on http://localhost:9999.
 
-2. To refresh any change on the fly:
+To refresh any change on the fly:
 
 ```bash
   npm run watch
 ```
 
-3. To build the bundle in development mode, run: 
+To build the bundle in development mode, run: 
 
 ```bash
   npm run build:dev
 ```
 It will create a development bundle in the dist folder.
 
-4. To build the bundle in production mode (ready to release) run:
+To build the bundle in production mode (ready to release) run:
 
 ```bash
   npm run build:production
